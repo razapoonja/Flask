@@ -15,3 +15,5 @@ def Articles():
 			'create_date': '01-21-2019'
 		}
 	]
+
+	return articles
